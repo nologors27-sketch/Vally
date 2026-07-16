@@ -13,8 +13,8 @@
       "Геленджик",
       "Сочи"
     ],
-    "photo_hero": "hero.jpg",
-    "photo_about": "photo.jpg",
+    "photo_hero": "hero.jpeg",
+    "photo_about": "photo.jpeg",
     "hero_video": ""
   },
   "hero": {
@@ -79,7 +79,7 @@
       "kind": "Реклама бренда",
       "year": "2026",
       "src": "work1.mp4",
-      "poster": "work1.jpg"
+      "poster": "work1.jpeg"
     },
     {
       "id": "ambersome1",
@@ -87,7 +87,7 @@
       "kind": "Реклама бренда",
       "year": "2025",
       "src": "",
-      "poster": "w_ambersome1.jpg"
+      "poster": "w%20ambersome1.jpeg"
     },
     {
       "id": "ambersome2",
@@ -95,7 +95,7 @@
       "kind": "Реклама бренда",
       "year": "2025",
       "src": "",
-      "poster": "w_ambersome2.jpg"
+      "poster": "w%20ambersome2.jpeg"
     },
     {
       "id": "fashion",
@@ -103,7 +103,7 @@
       "kind": "Съёмка мероприятия",
       "year": "2025",
       "src": "",
-      "poster": "w_fashion.jpg"
+      "poster": "w%20fashion.jpeg"
     },
     {
       "id": "proobraz",
@@ -111,7 +111,7 @@
       "kind": "Реклама бренда",
       "year": "2025",
       "src": "",
-      "poster": "w_proobraz.jpg"
+      "poster": "w%20proobraz.jpeg"
     },
     {
       "id": "chef",
@@ -119,7 +119,7 @@
       "kind": "Экспертное видео",
       "year": "2025",
       "src": "",
-      "poster": "w_chef.jpg"
+      "poster": "w%20chef.jpeg"
     },
     {
       "id": "wake",
@@ -127,7 +127,7 @@
       "kind": "Клип",
       "year": "2024",
       "src": "",
-      "poster": "w_wake.jpg"
+      "poster": "w%20wake.jpeg"
     },
     {
       "id": "beauty",
@@ -135,7 +135,7 @@
       "kind": "Реклама бренда",
       "year": "2022",
       "src": "",
-      "poster": "w_beauty.jpg"
+      "poster": "w%20beauty.jpeg"
     }
   ],
   "_works": "Добавляет бот. Вручную: src — файл .mp4 (тогда работает перемотка) либо ссылка на YouTube/VK. poster — обложка.",
